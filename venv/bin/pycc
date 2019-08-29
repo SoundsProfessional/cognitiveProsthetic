@@ -1,0 +1,3 @@
+#!/home/chef/PycharmProjects/brainwave/venv/bin/python
+from numba.pycc import main
+main()

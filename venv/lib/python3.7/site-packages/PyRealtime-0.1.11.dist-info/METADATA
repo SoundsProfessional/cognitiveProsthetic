@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: PyRealtime
+Version: 0.1.11
+Summary: A package for realtime data processing, including reading from serial ports and plotting.
+Home-page: https://github.com/ewhitmire/pyrealtime
+Author: Eric Whitmire
+Author-email: emwhit@cs.washington.edu
+License: UNKNOWN
+Keywords: realtime,plotting,serialport,logging,pipeline
+Platform: UNKNOWN
+
+UNKNOWN
+
+
